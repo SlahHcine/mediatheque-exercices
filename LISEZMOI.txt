@@ -1,0 +1,23 @@
+Projet mediatheque-exercices — Formation Java · Spring Boot · Hibernate / JPA (Slah Hassine)
+
+OUVRIR LE PROJET DANS INTELLIJ
+  1. Décompresse le zip dans le même dossier que mediatheque-api (par exemple ~/dev).
+  2. IntelliJ : File > Open... > choisis le dossier mediatheque-exercices > Open
+     (choisis "New Window" pour garder mediatheque-api ouvert à côté).
+  3. Si IntelliJ affiche "Project JDK is not defined" : clique "Setup SDK" et choisis le JDK 25.
+     (ou File > Project Structure > Project > SDK : 25)
+
+LANCER UN EXERCICE
+  - En haut à droite, choisis "Exercice 1 - Adherent" dans la liste puis clique sur la flèche verte,
+  - ou ouvre le fichier dans src/ et clique sur la flèche verte à gauche de main.
+  - Relancer : Ctrl + R (Mac) / Shift + F10 (Windows).
+
+LES EXERCICES (dans src/)
+  Exercice1_Adherent.java          programmation objet, validation
+  Exercice2_Catalogue.java         Streams, Optional, records
+  Exercice3_PolitiqueEmprunt.java  règles R1 à R5, exceptions, dates, BigDecimal
+  Exercice4_ServiceEmprunt.java    synthèse : emprunter et rendre
+
+Remplace chaque  throw new UnsupportedOperationException("À compléter");  par ton code.
+Objectif : toutes les vérifications à [OK]. L'énoncé complet est dans Enonce_Exercices_Mediatheque.pdf (à la racine du projet).
+Astuce : View > Tool Windows > TODO liste tout ce qu'il reste à faire.

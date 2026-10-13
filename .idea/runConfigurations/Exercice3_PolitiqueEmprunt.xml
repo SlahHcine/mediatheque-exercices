@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Exercice 3 - Politique emprunt" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Exercice3_PolitiqueEmprunt" />
+    <module name="mediatheque-exercices" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

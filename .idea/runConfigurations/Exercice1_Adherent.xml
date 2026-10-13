@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Exercice 1 - Adherent" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Exercice1_Adherent" />
+    <module name="mediatheque-exercices" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
